@@ -1,5 +1,7 @@
 # Digital_Circuit_Analyzer
 project that simulates and analyzes digital circuits by utilizing various data structures. The application supports designing, evaluating, and testing circuit behavior based on logical expressions.
+![Screenshot](Screenshot%202024-12-31%20193023.png)
+
 
 ## Features  
 - **Logical Expression Parsing**: Efficiently parses and evaluates logical expressions for circuit analysis.  
