@@ -12,10 +12,6 @@ project that simulates and analyzes digital circuits by utilizing various data s
 2. **Queues**: Handle sequential operations in circuits.  
 3. **Arrays**: Store and manage input/output states for truth table generation.  
 
-## Tools & Technologies  
-- Programming Language: C++  
-- IDE: [Your IDE choice, e.g., Visual Studio Code or IntelliJ]  
-
 ## Usage  
 1. Input a logical expression (e.g., `A & B | C`).  
 2. Generate the corresponding truth table.  
